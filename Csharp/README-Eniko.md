@@ -1,4 +1,4 @@
-# Isio-tech-test-solution-Eniko-Fazekas
+# Gilded Rose starting position in C# xUnit
 
 ## Problems to solve
 
